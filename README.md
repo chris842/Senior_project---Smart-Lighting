@@ -11,4 +11,10 @@ The programming languaged used for the project was C++, which was written using 
 (More details on the code can be found on the main.cpp file). The microcontroller used for this project
 was the ESP32 devkit v1, allowing for wireless connections to be made.
 
+ADDITIONAL NOTES
+----------------------------------------------------------
+For the PCB design, there were some components that I had to customize myself, as KiCAD did not have the 
+specific componenets that I had in mind. These additional symbols and components should be included in the
+ZIP file.
+
  
