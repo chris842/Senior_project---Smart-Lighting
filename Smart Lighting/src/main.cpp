@@ -53,7 +53,7 @@ for it to reconnect.
 #define LED 2
 
 //Authorization
-char auth[] = "mhWdeLOv5gAJKPNzIKpRzrMVpTnEk5M1";
+char auth[] = "######################";
 
 //Amount of time (seconds) the light will stay on
 #define timeSeconds 300
