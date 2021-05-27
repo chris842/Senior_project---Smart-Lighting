@@ -1,4 +1,4 @@
-#Smart-Lighting v1.0
+# Smart-Lighting v1.0
 This is the Smart Lighting project for my senior project.
 
 DESCRIPTION
